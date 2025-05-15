@@ -1,47 +1,47 @@
-# 👋 Привет, я @bkkushbox  
-**Менеджер проектов | Энтузиаст Web3 | Активный пользователь Farcaster**
+# 👋 Hi, I’m @bkkushbox  
+**Project Manager | Web3 Enthusiast | Active Farcaster User**
 
 ---
 
-## 💼 О себе  
-Я работаю менеджером в крупной компании:  
-📃 заключаю договоры,  
-📦 организую закупки,  
-🛠️ координирую производство работ.  
+## 💼 About Me  
+I work as a project manager in a large company:  
+📃 managing contracts,  
+📦 handling procurement,  
+🛠️ coordinating operations.
 
-Работаю системно, люблю порядок и эффективность. Недавно начал погружаться в мир криптовалют и Web3 — изучаю DeFi, тестирую airdrops, создаю касты, играю в Farcaster-игры, исследую новые протоколы.
-
----
-
-## 🚀 Интересы  
-- 🌐 Web3 и крипта (новичок, но активно учусь)  
-- 🎮 Игры в Farcaster: Ponder, Farcade, Guess  
-- 🧠 Образование, самопрокачка, новые технологии  
-- 📲 Мобильные технологии и цифровая безопасность  
-- ✈️ Путешествия, спорт, лайфстайл
+I’m methodical, organized, and value efficiency. Recently, I’ve been diving into the world of crypto and Web3 — learning DeFi, testing airdrops, creating casts, playing Farcaster games, and exploring new protocols.
 
 ---
 
-## ⛷️ Личное  
-- Зимой — на сноуборде 🏂  
-- Летом — на велосипеде 🚴  
-- Всегда — с семьей ❤️
+## 🚀 Interests  
+- 🌐 Web3 and crypto (beginner but actively learning)  
+- 🎮 Farcaster games: Ponder, Farcade, Guess  
+- 🧠 Learning, self-growth, and new tech  
+- 📲 Mobile tech & digital security  
+- ✈️ Travel, sports, and lifestyle
 
 ---
 
-## 🌐 Где меня найти  
+## ⛷️ Personal  
+- Winter — snowboarding 🏂  
+- Summer — cycling 🚴  
+- Always — with family ❤️
+
+---
+
+## 🌐 Where to Find Me  
 - Warpcast: [@bkkushbox](https://warpcast.com/bkkushbox)  
 - GitHub: [@bkkushbox](https://github.com/bkkushbox)
 
 ---
 
-## 📌 Сейчас в фокусе  
-- Строю безопасное крипто-хранилище  
-- Участвую в Snapchain-игре  
-- Повышаю Neynar Score  
-- Учусь писать крутые касты и цеплять внимание
+## 📌 Currently Focused On  
+- Building a secure crypto vault  
+- Playing the Snapchain game  
+- Increasing Neynar Score  
+- Learning to write better casts that catch attention
 
 ---
 
-> 🧩 *«Я здесь, чтобы учиться, делиться и находить людей по интересам»*
+> 🧩 *“I’m here to learn, share, and connect with like-minded people.”*
 > update readme
